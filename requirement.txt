@@ -1,0 +1,6 @@
+requests
+xmltodict
+dnspython
+beautifulSoup4
+boto3
+argparse
